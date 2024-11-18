@@ -1,0 +1,113 @@
+/* Footer Styles */
+.footer-container {
+    background-color: #f1f1f1; /* Fondo claro y suave */
+    color: #333; /* Texto oscuro para contraste */
+    padding: 40px 0;
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-top: 3px solid #f37a22; /* Línea separadora sutil */
+  }
+  
+  .footer-content {
+    width: 90%;
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    padding: 0 20px;
+    align-items: center;
+  }
+  
+  .footer-logo h2 {
+    font-size: 2rem;
+    color: #f37a22;
+  }
+  
+  .footer-logo p {
+    font-size: 1rem;
+    color: #777;
+  }
+  
+  .footer-links {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  .footer-column {
+    width: 200px;
+  }
+  
+  .footer-column h4 {
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #555;
+  }
+  
+  .footer-column ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-column ul li {
+    margin: 5px 0;
+  }
+  
+  .footer-column ul li a {
+    text-decoration: none;
+    color: #555;
+    font-size: 1rem;
+    transition: color 0.3s ease;
+  }
+  
+  .footer-column ul li a:hover {
+    color: #f37a22; /* Color cálido al pasar el mouse */
+  }
+  
+  .footer-socials {
+    display: flex;
+    gap: 15px;
+  }
+  
+  .social-icon {
+    font-size: 1.8rem;
+    color: #555;
+    transition: color 0.3s ease;
+  }
+  
+  .social-icon:hover {
+    color: #f37a22; /* Cambio de color en hover */
+  }
+  
+  .footer-bottom {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 0.9rem;
+    color: #777;
+  }
+  
+  .footer-bottom p {
+    margin: 0;
+  }
+  
+  /* Responsividad */
+  @media (max-width: 768px) {
+    .footer-content {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .footer-links {
+      flex-direction: column;
+      align-items: center;
+      display: flex;
+    }
+  
+    .footer-column {
+      margin-bottom: 20px;
+    }
+  }
+  

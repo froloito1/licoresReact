@@ -1,0 +1,34 @@
+
+.row {
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center;     /* Centra verticalmente */
+    width: 100%;
+  }
+  
+  /* Asegúrate de que el navbar también se alinee correctamente */
+  .navbar {
+    display: flex;
+    justify-content: space-between; /* Espacio entre los elementos */
+    align-items: center;            /* Centra verticalmente los elementos dentro del navbar */
+    width: 100%;
+    max-width: 1200px;              /* Limita el tamaño máximo del navbar si es necesario */
+  }
+ 
+.seeCarrito {
+    font-size: 2rem;  /* Aumenta el tamaño de la fuente (puedes ajustar este valor) */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.3s ease; /* Para una animación suave si quieres agregarle algo */
+  }
+  
+  .seeCarrito:hover {
+    transform: scale(1.2); 
+  }
+  
+@media only screen and (max-width: 600px){
+    header ul{
+        display: none;
+    }
+}

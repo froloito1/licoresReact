@@ -1,0 +1,92 @@
+/* Contenedor principal de los detalles del producto */
+.product-detail {
+    max-width: 400px; /* Limitar el ancho máximo */
+    margin: 40px auto; /* Centrar el contenido y agregar margen en la parte superior */
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.714); /* Sombra suave alrededor del contenedor */
+    font-family: 'Arial', sans-serif;
+  }
+  
+  /* Imagen del producto */
+  .product-detail img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px; /* Bordes redondeados para la imagen */
+    object-fit: cover; /* Mantener la imagen proporcional */
+    max-height: 400px; /* Limitar la altura máxima */
+    margin-bottom: 20px;
+  }
+  
+  /* Título del producto */
+  .product-detail h2 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 10px;
+    text-align: center; /* Centrar el título */
+  }
+  
+  /* Precio del producto */
+  .product-detail h4 {
+    font-size: 1.5rem;
+    color: #f37a22; /* Color destacado para el precio */
+    margin-bottom: 20px;
+    text-align: center; /* Centrar el precio */
+  }
+  
+  /* Descripción del producto */
+  .product-detail p {
+    font-size: 1rem;
+    color: #555;
+    line-height: 1.6;
+    text-align: justify; /* Justificar la descripción */
+    margin-bottom: 20px;
+  }
+  
+  /* Estilo para el botón "Volver" */
+  .product-detail button {
+    background-color: #5fa8d3; /* Color azul del botón */
+    color: white;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto; /* Centrar el botón */
+    transition: background-color 0.3s ease, transform 0.2s ease; /* Transiciones suaves */
+  }
+  
+  .product-detail button:hover {
+    background-color: #4b8eb1; /* Cambio de color al pasar el mouse */
+    transform: translateY(-2px); /* Efecto de elevación */
+  }
+  
+  .product-detail button:focus {
+    outline: none;
+  }
+  
+  /* Media query para pantallas pequeñas */
+  @media (max-width: 768px) {
+    .product-detail {
+      padding: 15px;
+    }
+  
+    .product-detail h2 {
+      font-size: 1.8rem; /* Reducir el tamaño del título en pantallas pequeñas */
+    }
+  
+    .product-detail h4 {
+      font-size: 1.2rem; /* Reducir el tamaño del precio en pantallas pequeñas */
+    }
+  
+    .product-detail p {
+      font-size: 0.9rem; /* Reducir el tamaño del texto de la descripción */
+    }
+  
+    .product-detail img {
+      max-height: 300px; /* Ajustar la imagen para pantallas pequeñas */
+    }
+  }
+  

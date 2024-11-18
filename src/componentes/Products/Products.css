@@ -1,0 +1,110 @@
+.product-card-container {
+    display: flex;
+    flex-wrap: wrap; /* Permite que los productos se distribuyan en múltiples filas */
+    justify-content: space-between; /* Asegura que haya espacio entre los productos */
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+    max-width: 1200px; /* Limita el ancho del contenedor */
+}
+
+.card {
+    flex: 0 0 30%; /* Cada tarjeta ocupará el 30% del contenedor, lo que da lugar a 3 tarjetas por fila */
+    box-sizing: border-box; /* Asegura que los márgenes y el padding no afecten el tamaño */
+    margin: 10px; /* Espacio entre tarjetas */
+    background-color: #fff;
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card img {
+    width: 60%; /* La imagen ocupa el 100% del ancho de la tarjeta */
+    height: 200px; /* Ajustamos la altura para que las imágenes no se deformen */
+    object-fit: cover; /* Ajusta la imagen para que cubra el área sin deformarse */
+    margin:center;
+}
+
+.card h3, .card h4 {
+    margin: 10px 0;
+    color: #333;
+}
+
+.boton-agregar-carrito{
+    padding: 10px;
+    background-color: #cb5e1b;
+    color: white;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    font-size: 15px;
+}
+
+
+.card img:hover {
+    opacity: 0.7;
+    transform: rotate(-3deg);
+    border: 1px solid lightcoral;
+   
+}
+
+/* Estilo del botón de completar compra */
+.boton-completar-compra {
+    background-color: #28a745; /* Color de fondo verde (puedes cambiarlo) */
+    color: white; /* Color del texto */
+    font-size: 18px; /* Tamaño de fuente */
+    padding: 12px 24px; /* Relleno alrededor del texto */
+    border: none; /* Sin borde */
+    border-radius: 8px; /* Bordes redondeados */
+    cursor: pointer; /* Cambiar el cursor al pasar sobre el botón */
+    transition: all 0.3s ease; /* Transición suave para los efectos */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+    font-weight: bold; /* Texto en negrita */
+  }
+  
+  /* Efecto al pasar el ratón (hover) */
+  .boton-completar-compra:hover {
+    background-color: #218838; /* Un verde más oscuro */
+    transform: translateY(-2px); /* Levantar ligeramente el botón */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* Aumenta la sombra */
+  }
+  
+  /* Efecto al hacer clic (active) */
+  .boton-completar-compra:active {
+    background-color: #1e7e34; /* Aún más oscuro al hacer clic */
+    transform: translateY(0); /* El botón vuelve a su posición original */
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); /* Sombra más suave */
+  }
+  
+  /* Opcional: Estilo para el texto cuando el botón está deshabilitado */
+  .boton-completar-compra:disabled {
+    background-color: #d6d6d6; /* Gris cuando está deshabilitado */
+    color: #aaa; /* Color gris para el texto */
+    cursor: not-allowed; /* Cursor de no permitido */
+    box-shadow: none; /* Sin sombra */
+  }
+  .boton-ver-detalle{
+    padding: 10px;
+    background-color: rgba(8, 30, 228, 0.75);
+    color: white;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    font-size: 15px;
+}
+  
+
+/* Media query para pantallas medianas (menos de 900px) */
+@media (max-width: 900px) {
+    .card {
+        flex: 0 0 45%; /* En pantallas medianas, 2 productos por fila */
+    }
+}
+
+/* Media query para pantallas pequeñas (menos de 600px) */
+@media (max-width: 600px) {
+    .card {
+        flex: 0 0 100%; /* En pantallas pequeñas, 1 producto por fila */
+    }
+}

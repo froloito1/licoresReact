@@ -1,0 +1,87 @@
+/* Contenedor del formulario */
+.form-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #e0e0e0;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+    font-family: 'Arial', sans-serif;
+    
+  }
+  
+  /* Grupo de formularios */
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: #333333;
+    font-size: 14px;
+  }
+  
+  /* Estilo de los inputs */
+  input[type="text"], input[type="number"] {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #cccccc;
+    border-radius: 6px;
+    font-size: 14px;
+    transition: box-shadow 0.3s ease, border-color 0.3s ease;
+  }
+  
+  input[type="text"]:focus, input[type="number"]:focus {
+    border-color: #4caf50;
+    box-shadow: 0 0 8px rgba(76, 175, 80, 0.4);
+    outline: none;
+  }
+  
+  /* Botones */
+  .form-actions button {
+    padding: 12px 24px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+  
+  .form-actions button[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .form-actions button[type="submit"]:hover {
+    background-color: #45a049;
+    transform: translateY(-2px);
+  }
+  
+  .form-actions button[type="button"] {
+    background-color: #f44336;
+    color: white;
+  }
+  
+  .form-actions button[type="button"]:hover {
+    background-color: #d32f2f;
+    transform: translateY(-2px);
+  }
+  
+  /* Efectos de hover y focus */
+  button:active {
+    transform: translateY(0);
+  }
+  
+  /* Tipografía del formulario */
+  body {
+    background-color: #f9f9f9;
+    font-family: 'Arial', sans-serif;
+    color: #333333;
+    line-height: 1.5;
+  }
+  
+  

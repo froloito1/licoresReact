@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "producto": "Refajo COLA Y POLA lata x6und (1980 ml)",
+        "precio": 10000,
+        "img": "https://exitocol.vtexassets.com/arquivos/ids/25470689/Cola-Y-Pola-Lata-Sixpack-330ml-C-u-449804_a.jpg?v=638666692623400000"
+    },
+    {
+        "id": 2,
+        "producto": "Cerveza SIXPACK CORONITA CORONA 1260 ml",
+        "precio": 20000,
+        "img": "https://www.shutterstock.com/image-photo/ukraine-kyiv-june-03-2020-600nw-1765165187.jpg"
+    },
+    {
+        "id": 3,
+        "producto": "Agua tónica IMPERDIBILE MARCA EXCLUSIVA Wild Botanical x 4 und 200ml (800 ml)",
+        "precio": 15500,
+        "img": "https://exitocol.vtexassets.com/arquivos/ids/24492544/Tonica-4Pack-Wild-Botanical-IMPERDIBILE-MARCA-EXCLUSIVA-800-Mililitro-1790157_a.jpg?v=638613271876600000"
+    },
+    {
+        "id": 4,
+        "producto": "Agua tónica IMPERDIBILE MARCA EXCLUSIVA Wild Botanical x 4 und 200ml (800 ml)",
+        "precio": 26000,
+        "img": "https://exitocol.vtexassets.com/arquivos/ids/24492544/Tonica-4Pack-Wild-Botanical-IMPERDIBILE-MARCA-EXCLUSIVA-800-Mililitro-1790157_a.jpg?v=638613271876600000"
+    },
+    {
+        "id": 5,
+        "producto": "Refajo COLA Y POLA lata x6und (1980 ml)",
+        "precio": 10000,
+        "img": "https://exitocol.vtexassets.com/arquivos/ids/25470689/Cola-Y-Pola-Lata-Sixpack-330ml-C-u-449804_a.jpg?v=638666692623400000"
+    },
+    {
+        "id": 6,
+        "producto": "Agua tónica IMPERDIBILE MARCA EXCLUSIVA Wild Botanical x 4 und 200ml (800 ml)",
+        "precio": 26000,
+        "img": "https://exitocol.vtexassets.com/arquivos/ids/24492544/Tonica-4Pack-Wild-Botanical-IMPERDIBILE-MARCA-EXCLUSIVA-800-Mililitro-1790157_a.jpg?v=638613271876600000"
+    },
+    {
+        "id": 7,
+        "producto": "Refajo COLA Y POLA lata x6und (1980 ml)",
+        "precio": 10000,
+        "img": "https://exitocol.vtexassets.com/arquivos/ids/25470689/Cola-Y-Pola-Lata-Sixpack-330ml-C-u-449804_a.jpg?v=638666692623400000"
+    },
+    {
+        "id": 8,
+        "producto": "Cerveza SIXPACK CORONITA CORONA 1260 ml",
+        "precio": 20000,
+        "img": "https://www.shutterstock.com/image-photo/ukraine-kyiv-june-03-2020-600nw-1765165187.jpg"
+    },
+    {
+        "id": 9,
+        "producto": "Agua tónica IMPERDIBILE MARCA EXCLUSIVA Wild Botanical x 4 und 200ml (800 ml)",
+        "precio": 15500,
+        "img": "https://exitocol.vtexassets.com/arquivos/ids/24492544/Tonica-4Pack-Wild-Botanical-IMPERDIBILE-MARCA-EXCLUSIVA-800-Mililitro-1790157_a.jpg?v=638613271876600000"
+    },
+    {
+        "id": 10,
+        "producto": "Agua tónica IMPERDIBILE MARCA EXCLUSIVA Wild Botanical x 4 und 200ml (800 ml)",
+        "precio": 26000,
+        "img": "https://exitocol.vtexassets.com/arquivos/ids/24492544/Tonica-4Pack-Wild-Botanical-IMPERDIBILE-MARCA-EXCLUSIVA-800-Mililitro-1790157_a.jpg?v=638613271876600000"
+    },
+    {
+        "id": 11,
+        "producto": "Refajo COLA Y POLA lata x6und (1980 ml)",
+        "precio": 10000,
+        "img": "https://exitocol.vtexassets.com/arquivos/ids/25470689/Cola-Y-Pola-Lata-Sixpack-330ml-C-u-449804_a.jpg?v=638666692623400000"
+    },
+    {
+        "id": 12,
+        "producto": "Cerveza SIXPACK CORONITA CORONA 1260 ml",
+        "precio": 20000,
+        "img": "https://www.shutterstock.com/image-photo/ukraine-kyiv-june-03-2020-600nw-1765165187.jpg"
+    },
+    {
+        "id": 13,
+        "producto": "Agua tónica IMPERDIBILE MARCA EXCLUSIVA Wild Botanical x 4 und 200ml (800 ml)",
+        "precio": 15500,
+        "img": "https://exitocol.vtexassets.com/arquivos/ids/24492544/Tonica-4Pack-Wild-Botanical-IMPERDIBILE-MARCA-EXCLUSIVA-800-Mililitro-1790157_a.jpg?v=638613271876600000"
+    },
+    {
+        "id": 14,
+        "producto": "Agua tónica IMPERDIBILE MARCA EXCLUSIVA Wild Botanical x 4 und 200ml (800 ml)",
+        "precio": 26000,
+        "img": "https://exitocol.vtexassets.com/arquivos/ids/24492544/Tonica-4Pack-Wild-Botanical-IMPERDIBILE-MARCA-EXCLUSIVA-800-Mililitro-1790157_a.jpg?v=638613271876600000"
+    },
+    {
+        "id": 15,
+        "producto": "Refajo COLA Y POLA lata x6und (1980 ml)",
+        "precio": 10000,
+        "img": "https://exitocol.vtexassets.com/arquivos/ids/25470689/Cola-Y-Pola-Lata-Sixpack-330ml-C-u-449804_a.jpg?v=638666692623400000"
+    },
+    {
+        "id": 16,
+        "producto": "Cerveza SIXPACK CORONITA CORONA 1260 ml",
+        "precio": 20000,
+        "img": "https://www.shutterstock.com/image-photo/ukraine-kyiv-june-03-2020-600nw-1765165187.jpg"
+    },
+    {
+        "id": 17,
+        "producto": "Agua tónica IMPERDIBILE MARCA EXCLUSIVA Wild Botanical x 4 und 200ml (800 ml)",
+        "precio": 15500,
+        "img": "https://exitocol.vtexassets.com/arquivos/ids/24492544/Tonica-4Pack-Wild-Botanical-IMPERDIBILE-MARCA-EXCLUSIVA-800-Mililitro-1790157_a.jpg?v=638613271876600000"
+    },
+    {
+        "id": 18,
+        "producto": "Refajo COLA Y POLA lata x6und (1980 ml)",
+        "precio": 10000,
+        "img": "https://exitocol.vtexassets.com/arquivos/ids/25470689/Cola-Y-Pola-Lata-Sixpack-330ml-C-u-449804_a.jpg?v=638666692623400000"
+    },
+    {
+        "id": 19,
+        "producto": "Cerveza SIXPACK CORONITA CORONA 1260 ml",
+        "precio": 20000,
+        "img": "https://www.shutterstock.com/image-photo/ukraine-kyiv-june-03-2020-600nw-1765165187.jpg"
+    },
+    {
+        "id": 20,
+        "producto": "Agua tónica IMPERDIBILE MARCA EXCLUSIVA Wild Botanical x 4 und 200ml (800 ml)",
+        "precio": 15500,
+        "img": "https://exitocol.vtexassets.com/arquivos/ids/24492544/Tonica-4Pack-Wild-Botanical-IMPERDIBILE-MARCA-EXCLUSIVA-800-Mililitro-1790157_a.jpg?v=638613271876600000"
+    },
+    {
+        "id": 21,
+        "producto": "Agua tónica IMPERDIBILE MARCA EXCLUSIVA Wild Botanical x 4 und 200ml (800 ml)",
+        "precio": 26000,
+        "img": "https://exitocol.vtexassets.com/arquivos/ids/24492544/Tonica-4Pack-Wild-Botanical-IMPERDIBILE-MARCA-EXCLUSIVA-800-Mililitro-1790157_a.jpg?v=638613271876600000"
+    },
+    {
+        "id": 22,
+        "producto": "Refajo COLA Y POLA lata x6und (1980 ml)",
+        "precio": 10000,
+        "img": "https://exitocol.vtexassets.com/arquivos/ids/25470689/Cola-Y-Pola-Lata-Sixpack-330ml-C-u-449804_a.jpg?v=638666692623400000"
+    },
+    {
+        "id": 23,
+        "producto": "Cerveza SIXPACK CORONITA CORONA 1260 ml",
+        "precio": 20000,
+        "img": "https://www.shutterstock.com/image-photo/ukraine-kyiv-june-03-2020-600nw-1765165187.jpg"
+    },
+    {
+        "id": 24,
+        "producto": "Agua tónica IMPERDIBILE MARCA EXCLUSIVA Wild Botanical x 4 und 200ml (800 ml)",
+        "precio": 15500,
+        "img": "https://exitocol.vtexassets.com/arquivos/ids/24492544/Tonica-4Pack-Wild-Botanical-IMPERDIBILE-MARCA-EXCLUSIVA-800-Mililitro-1790157_a.jpg?v=638613271876600000"
+    },
+    {
+        "id": 25,
+        "producto": "Agua tónica IMPERDIBILE MARCA EXCLUSIVA Wild Botanical x 4 und 200ml (800 ml)",
+        "precio": 26000,
+        "img": "https://exitocol.vtexassets.com/arquivos/ids/24492544/Tonica-4Pack-Wild-Botanical-IMPERDIBILE-MARCA-EXCLUSIVA-800-Mililitro-1790157_a.jpg?v=638613271876600000"
+    },
+    {
+        "id": 26,
+        "producto": "Refajo COLA Y POLA lata x6und (1980 ml)",
+        "precio": 10000,
+        "img": "https://exitocol.vtexassets.com/arquivos/ids/25470689/Cola-Y-Pola-Lata-Sixpack-330ml-C-u-449804_a.jpg?v=638666692623400000"
+    },
+    {
+        "id": 27,
+        "producto": "Cerveza SIXPACK CORONITA CORONA 1260 ml",
+        "precio": 20000,
+        "img": "https://www.shutterstock.com/image-photo/ukraine-kyiv-june-03-2020-600nw-1765165187.jpg"
+    },
+    {
+        "id": 28,
+        "producto": "Agua tónica IMPERDIBILE MARCA EXCLUSIVA Wild Botanical x 4 und 200ml (800 ml)",
+        "precio": 15500,
+        "img": "https://exitocol.vtexassets.com/arquivos/ids/24492544/Tonica-4Pack-Wild-Botanical-IMPERDIBILE-MARCA-EXCLUSIVA-800-Mililitro-1790157_a.jpg?v=638613271876600000"
+    },
+    {
+        "id": 29,
+        "producto": "Agua tónica IMPERDIBILE MARCA EXCLUSIVA Wild Botanical x 4 und 200ml (800 ml)",
+        "precio": 26000,
+        "img": "https://exitocol.vtexassets.com/arquivos/ids/24492544/Tonica-4Pack-Wild-Botanical-IMPERDIBILE-MARCA-EXCLUSIVA-800-Mililitro-1790157_a.jpg?v=638613271876600000"
+    },
+    {
+        "id": 30,
+        "producto": "Refajo COLA Y POLA lata x6und (1980 ml)",
+        "precio": 10000,
+        "img": "https://exitocol.vtexassets.com/arquivos/ids/25470689/Cola-Y-Pola-Lata-Sixpack-330ml-C-u-449804_a.jpg?v=638666692623400000"
+    },
+    {
+        "id": 31,
+        "producto": "Cerveza SIXPACK CORONITA CORONA 1260 ml",
+        "precio": 20000,
+        "img": "https://www.shutterstock.com/image-photo/ukraine-kyiv-june-03-2020-600nw-1765165187.jpg"
+    },
+    {
+        "id": 32,
+        "producto": "Agua tónica IMPERDIBILE MARCA EXCLUSIVA Wild Botanical x 4 und 200ml (800 ml)",
+        "precio": 15500,
+        "img": "https://exitocol.vtexassets.com/arquivos/ids/24492544/Tonica-4Pack-Wild-Botanical-IMPERDIBILE-MARCA-EXCLUSIVA-800-Mililitro-1790157_a.jpg?v=638613271876600000"
+    },
+    {
+        "id": 33,
+        "producto": "Refajo COLA Y POLA lata x6und (1980 ml)",
+        "precio": 10000,
+        "img": "https://exitocol.vtexassets.com/arquivos/ids/25470689/Cola-Y-Pola-Lata-Sixpack-330ml-C-u-449804_a.jpg?v=638666692623400000"
+    },
+    {
+        "id": 34,
+        "producto": "Cerveza SIXPACK CORONITA CORONA 1260 ml",
+        "precio": 20000,
+        "img": "https://www.shutterstock.com/image-photo/ukraine-kyiv-june-03-2020-600nw-1765165187.jpg"
+    },
+    {
+        "id": 35,
+        "producto": "Agua tónica IMPERDIBILE MARCA EXCLUSIVA Wild Botanical x 4 und 200ml (800 ml)",
+        "precio": 15500,
+        "img": "https://exitocol.vtexassets.com/arquivos/ids/24492544/Tonica-4Pack-Wild-Botanical-IMPERDIBILE-MARCA-EXCLUSIVA-800-Mililitro-1790157_a.jpg?v=638613271876600000"
+    },
+    {
+        "id": 36,
+        "producto": "Agua tónica IMPERDIBILE MARCA EXCLUSIVA Wild Botanical x 4 und 200ml (800 ml)",
+        "precio": 26000,
+        "img": "https://exitocol.vtexassets.com/arquivos/ids/24492544/Tonica-4Pack-Wild-Botanical-IMPERDIBILE-MARCA-EXCLUSIVA-800-Mililitro-1790157_a.jpg?v=638613271876600000"
+    },
+    {
+        "id": 37,
+        "producto": "Refajo COLA Y POLA lata x6und (1980 ml)",
+        "precio": 10000,
+        "img": "https://exitocol.vtexassets.com/arquivos/ids/25470689/Cola-Y-Pola-Lata-Sixpack-330ml-C-u-449804_a.jpg?v=638666692623400000"
+    },
+    {
+        "id": 38,
+        "producto": "Cerveza SIXPACK CORONITA CORONA 1260 ml",
+        "precio": 20000,
+        "img": "https://www.shutterstock.com/image-photo/ukraine-kyiv-june-03-2020-600nw-1765165187.jpg"
+    },
+    {
+        "id": 39,
+        "producto": "Agua tónica IMPERDIBILE MARCA EXCLUSIVA Wild Botanical x 4 und 200ml (800 ml)",
+        "precio": 15500,
+        "img": "https://exitocol.vtexassets.com/arquivos/ids/24492544/Tonica-4Pack-Wild-Botanical-IMPERDIBILE-MARCA-EXCLUSIVA-800-Mililitro-1790157_a.jpg?v=638613271876600000"
+    },
+    {
+        "id": 40,
+        "producto": "Agua tónica IMPERDIBILE MARCA EXCLUSIVA Wild Botanical x 4 und 200ml (800 ml)",
+        "precio": 26000,
+        "img": "https://exitocol.vtexassets.com/arquivos/ids/24492544/Tonica-4Pack-Wild-Botanical-IMPERDIBILE-MARCA-EXCLUSIVA-800-Mililitro-1790157_a.jpg?v=638613271876600000"
+    }  
+]
